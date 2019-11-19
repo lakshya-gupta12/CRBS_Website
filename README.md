@@ -31,3 +31,6 @@ rcvemail = receiver email
 
 ## Licence 
     - Apache 2.0 License
+    
+## Future Developments
+    - Login functionality soon to come
